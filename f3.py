@@ -1,0 +1,1 @@
+print("task 3, in f3.py")
